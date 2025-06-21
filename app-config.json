@@ -1,4 +1,4 @@
 {
-  "api_base_url": "54.242.41.240:5000",
+  "api_base_url": "http://54.242.41.240:5000",
   "min_supported_version": "1.0.0"
 }
