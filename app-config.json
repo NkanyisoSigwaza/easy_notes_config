@@ -1,5 +1,5 @@
 {
-  "api_base_url":"https://5b01-41-76-101-118.ngrok-free.app",
+  "api_base_url":"https://9d16-41-76-101-118.ngrok-free.app",
   "api_base_url_aws": "http://54.242.41.240:5000",
   "min_supported_version": "1.0.0"
 }
