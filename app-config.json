@@ -1,5 +1,5 @@
 {
-  "api_base_url":"https://web-production-0d44f.up.railway.app",
+  "api_base_url":"https://8566fd84a1b0.ngrok-free.app",
   "api_base_url_aws": "https://web-production-0d44f.up.railway.app",
   "min_supported_version": "1.0.0"
 }
